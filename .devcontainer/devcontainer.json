@@ -1,0 +1,16 @@
+{
+    "name": "Exam Env",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "-GitHub.copilot",
+          "-GitHub.copilot-chat"
+        ],
+        "settings": {
+          "github.copilot.enable": false,
+          "github.copilot.chat.enabled": false
+        }
+      }
+    }
+  }
+  
