@@ -1,0 +1,10 @@
+{
+    "github.copilot.enable": { "*": false },
+    "github.copilot.chat.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "chat.editor.enable": false,
+    "chat.experimental.showWelcome": false,
+    "workbench.startupEditor": "none"
+  }
+  
